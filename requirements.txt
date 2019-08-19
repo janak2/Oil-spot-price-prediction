@@ -1,0 +1,13 @@
+numpy
+ipywidgets
+nbinteract
+pandas
+matplotlib
+scikit-learn
+tqdm
+pickle
+keras
+logging
+os
+time
+IPython
